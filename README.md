@@ -21,7 +21,7 @@
                 <h1 style="font-family: Cinzel, serif; font-size: 40px; letter-spacing: 1.2px;">Hi Chyrss!,</h1>
                 <p> 
                     <span>
-                        &emsp;  I’ve been meaning to tell you this for a while now, but I never really found the right time—or maybe I was just too nervous to say it. But today, I finally decided to be honest about what I feel. Every time we talk, even about small things, you somehow make my day a little brighter.
+                        &emsp;  I just wanted to tell you somethin but I never really found the right time—or maybe I was just too nervous to say it. But today, I finally decided to be honest about what I feel. Every time we talk, even about small things, you somehow make my day a little brighter.
                     </span>
                     <br> <br>
                     <span>
