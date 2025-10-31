@@ -1,5 +1,3 @@
-[hi.html](https://github.com/user-attachments/files/23251815/hi.html)
-<!DOCTYPE html>
 <html lang="en">
     <head>
         <meta charset="UTF-8">
